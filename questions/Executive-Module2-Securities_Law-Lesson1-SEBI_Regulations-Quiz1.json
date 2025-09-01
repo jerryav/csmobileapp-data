@@ -1,0 +1,15 @@
+{
+  "questions": [
+    {
+      "question": "SEBI stands for?",
+      "options": [
+        "Securities and Exchange Board of India",
+        "Stock Exchange Board of India",
+        "Securities Exchange Bureau of India",
+        "Stock and Exchange Board of India"
+      ],
+      "answer": "A",
+      "explanation": "SEBI stands for Securities and Exchange Board of India, established in 1988."
+    }
+  ]
+}

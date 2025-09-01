@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "What does the Preamble of the Indian Constitution declare India to be?",
+      "options": [
+        "Monarchy",
+        "Sovereign, Socialist, Secular, Democratic Republic",
+        "Federal Empire",
+        "Colonial State"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Which part of the Constitution contains Fundamental Rights?",
+      "options": [
+        "Part II",
+        "Part III",
+        "Part IV",
+        "Part V"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Which Article guarantees the Right to Equality?",
+      "options": [
+        "Article 14",
+        "Article 19",
+        "Article 21",
+        "Article 32"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "What is the doctrine that allows the judiciary to invalidate laws that violate the Constitution?",
+      "options": [
+        "Separation of Powers",
+        "Judicial Review",
+        "Directive Principle",
+        "Natural Justice"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Which Article provides for the amendment of the Constitution?",
+      "options": [
+        "Article 368",
+        "Article 352",
+        "Article 13",
+        "Article 245"
+      ],
+      "answer": "A"
+    },
+    {
+      "question": "Which part of the Constitution contains the Directive Principles of State Policy?",
+      "options": [
+        "Part II",
+        "Part III",
+        "Part IV",
+        "Part V"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "What is the significance of the 'Doctrine of Eclipse'?",
+      "options": [
+        "It allows states to reject central laws",
+        "It renders inconsistent laws dormant until constitutional amendment",
+        "It bans all non-fundamental rights",
+        "It allows judicial overreach"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Who has the final power to interpret the Constitution?",
+      "options": [
+        "President",
+        "Prime Minister",
+        "Parliament",
+        "Supreme Court"
+      ],
+      "answer": "D"
+    },
+    {
+      "question": "What are writs used for under Article 32 and 226?",
+      "options": [
+        "To impose emergency",
+        "To command Parliament",
+        "To enforce Fundamental Rights",
+        "To amend Constitution"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "Which of the following is NOT a writ under Indian Constitution?",
+      "options": [
+        "Habeas Corpus",
+        "Certiorari",
+        "Mandamus",
+        "Precedent"
+      ],
+      "answer": "D"
+    }
+  ]
+}

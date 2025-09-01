@@ -1,0 +1,26 @@
+{
+  "questions": [
+    {
+      "question": "What is the primary legislation governing companies in India?",
+      "options": [
+        "Companies Act, 2013",
+        "Companies Act, 1956",
+        "Corporate Affairs Act, 2013",
+        "Business Regulation Act, 2013"
+      ],
+      "answer": "A",
+      "explanation": "The Companies Act, 2013 is the primary legislation that governs companies in India, replacing the Companies Act, 1956."
+    },
+    {
+      "question": "Which of the following are types of companies under the Companies Act, 2013?",
+      "options": [
+        "Private Limited Company",
+        "Public Limited Company",
+        "One Person Company",
+        "Limited Liability Partnership"
+      ],
+      "answer": "A",
+      "explanation": "Private Limited, Public Limited, and One Person Company are types of companies under the Companies Act, 2013. LLP is governed by a separate act. Note: This question originally had multiple correct answers, but the current quiz system supports single answers only."
+    }
+  ]
+}

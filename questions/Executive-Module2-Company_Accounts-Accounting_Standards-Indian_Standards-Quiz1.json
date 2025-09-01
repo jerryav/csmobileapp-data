@@ -1,0 +1,169 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following bodies issues Accounting Standards in India?",
+      "options": [
+        "SEBI",
+        "ICAI",
+        "RBI",
+        "MCA"
+      ],
+      "answer": "B",
+      "explanation": "The Institute of Chartered Accountants of India (ICAI) is the body responsible for issuing Accounting Standards in India."
+    },
+    {
+      "question": "Which is the first Accounting Standard issued in India?",
+      "options": [
+        "AS 1",
+        "AS 2",
+        "AS 3",
+        "AS 10"
+      ],
+      "answer": "A",
+      "explanation": "AS 1, titled 'Disclosure of Accounting Policies', was the first standard issued in India."
+    },
+    {
+      "question": "Which Accounting Standard deals with the valuation of inventories?",
+      "options": [
+        "AS 2",
+        "AS 3",
+        "AS 5",
+        "AS 10"
+      ],
+      "answer": "A",
+      "explanation": "AS 2 'Valuation of Inventories' deals with the method of determining inventory costs and their valuation."
+    },
+    {
+      "question": "Which of the following statements about Ind AS is true?",
+      "options": [
+        "Ind AS is applicable only to partnership firms",
+        "Ind AS is voluntary for all companies",
+        "Ind AS converges Indian standards with IFRS",
+        "Ind AS replaces Companies Act, 2013"
+      ],
+      "answer": "C",
+      "explanation": "Ind AS is India's version of IFRS-converged standards to make financial reporting globally comparable."
+    },
+    {
+      "question": "AS 3 deals with which of the following?",
+      "options": [
+        "Cash Flow Statements",
+        "Fixed Assets",
+        "Revenue Recognition",
+        "Amalgamation"
+      ],
+      "answer": "A",
+      "explanation": "AS 3 requires companies to prepare and present a Cash Flow Statement as part of their financial statements."
+    },
+    {
+      "question": "Which standard is applicable for 'Revenue Recognition'?",
+      "options": [
+        "AS 5",
+        "AS 7",
+        "AS 9",
+        "AS 12"
+      ],
+      "answer": "C",
+      "explanation": "AS 9 deals with the bases for recognizing revenue from sale of goods, rendering of services, and interest/dividends."
+    },
+    {
+      "question": "What is the main objective of Accounting Standards?",
+      "options": [
+        "To compute tax liability",
+        "To prepare audit reports",
+        "To harmonize accounting policies",
+        "To determine share price"
+      ],
+      "answer": "C",
+      "explanation": "Accounting Standards aim to bring uniformity and comparability in financial statements by harmonizing accounting practices."
+    },
+    {
+      "question": "Which standard deals with treatment of depreciation and accounting for fixed assets?",
+      "options": [
+        "AS 6",
+        "AS 10",
+        "AS 11",
+        "AS 18"
+      ],
+      "answer": "B",
+      "explanation": "AS 10 'Property, Plant and Equipment' deals with accounting for tangible fixed assets and depreciation."
+    },
+    {
+      "question": "IFRS stands for:",
+      "options": [
+        "International Financial Reporting System",
+        "Indian Financial Regulatory Standards",
+        "International Financial Reporting Standards",
+        "Indian Financial Reporting Standards"
+      ],
+      "answer": "C",
+      "explanation": "IFRS is a globally accepted set of accounting standards issued by the IASB (International Accounting Standards Board)."
+    },
+    {
+      "question": "Which standard covers accounting for the effects of changes in foreign exchange rates?",
+      "options": [
+        "AS 10",
+        "AS 11",
+        "AS 12",
+        "AS 14"
+      ],
+      "answer": "B",
+      "explanation": "AS 11 provides guidance on accounting for transactions in foreign currencies and the effects of changes in exchange rates."
+    },
+    {
+      "question": "Ind AS is applicable to which class of companies mandatorily?",
+      "options": [
+        "Companies with net worth less than ₹250 crore",
+        "Listed companies and large unlisted companies",
+        "Sole proprietorships",
+        "Only public sector banks"
+      ],
+      "answer": "B",
+      "explanation": "Ind AS is mandatory for listed companies and unlisted companies having a net worth of ₹250 crore or more."
+    },
+    {
+      "question": "Which authority is responsible for convergence of Indian standards with IFRS?",
+      "options": [
+        "SEBI",
+        "RBI",
+        "ICAI",
+        "CBIC"
+      ],
+      "answer": "B",
+      "explanation": "ICAI plays a key role in formulating and converging Indian standards with International Financial Reporting Standards (IFRS)."
+    },
+    {
+      "question": "Which of the following is NOT a benefit of adopting Ind AS?",
+      "options": [
+        "Global comparability",
+        "Improved transparency",
+        "Higher tax rates",
+        "Better investor confidence"
+      ],
+      "answer": "C",
+      "explanation": "Ind AS adoption does not affect tax rates. Its primary benefits include transparency and comparability."
+    },
+    {
+      "question": "Which standard is related to government grants?",
+      "options": [
+        "AS 12",
+        "AS 15",
+        "AS 17",
+        "AS 19"
+      ],
+      "answer": "A",
+      "explanation": "AS 12 deals with the accounting for government grants and disclosure of government assistance."
+    },
+    {
+      "question": "AS 18 deals with:",
+      "options": [
+        "Related Party Disclosures",
+        "Consolidation of Financial Statements",
+        "Leases",
+        "Borrowing Costs"
+      ],
+      "answer": "A",
+      "explanation": "AS 18 requires disclosures of related party relationships, transactions, and outstanding balances in financial statements."
+    }
+  ]
+}

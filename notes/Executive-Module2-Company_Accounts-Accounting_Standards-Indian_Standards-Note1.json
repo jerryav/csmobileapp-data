@@ -1,0 +1,16 @@
+{
+  "notes": [
+    {
+      "title": "Indian Accounting Standards (Ind AS)",
+      "content": "Ind AS are accounting standards adopted by companies in India. They are based on and substantially converged with IFRS (International Financial Reporting Standards).\n\nKey Features:\n• Principle-based approach\n• Fair value measurement\n• Enhanced disclosures\n• Improved comparability"
+    },
+    {
+      "title": "Implementation Timeline",
+      "content": "Ind AS implementation was done in phases:\n\nPhase 1 (April 1, 2016):\n• Listed companies with net worth ≥ ₹500 crores\n\nPhase 2 (April 1, 2017):\n• Listed companies with net worth ≥ ₹250 crores\n• Unlisted companies with net worth ≥ ₹500 crores"
+    },
+    {
+      "title": "Key Differences from AS",
+      "content": "Major differences between Ind AS and old Accounting Standards:\n\n• Fair value vs Historical cost\n• Component approach for PPE\n• Impairment testing requirements\n• Comprehensive income concept\n• Extensive disclosure requirements"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of Bihar",
+      "options": [
+        "Patna",
+        "Delhi",
+        "Agra",
+        "Kolkata"
+      ],
+      "answer": "A",
+      "explanation": "Yes thats correct"
+    }
+  ]
+}

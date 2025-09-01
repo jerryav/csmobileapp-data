@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "question": "What is the primary source of Indian Law?",
+      "options": [
+        "Custom",
+        "Legislation", 
+        "Judicial Precedent",
+        "Equity and Good Conscience"
+      ],
+      "answer": "B"
+    },
+    {
+      "question": "Who is known as the father of jurisprudence?",
+      "options": [
+        "Austin",
+        "Kelsen",
+        "Bentham",
+        "Holmes"
+      ],
+      "answer": "C"
+    },
+    {
+      "question": "What does 'jurisprudence' literally mean?",
+      "options": [
+        "Knowledge of law",
+        "Science of law",
+        "Philosophy of law",
+        "Wisdom of law"
+      ],
+      "answer": "B"
+    }
+  ]
+}

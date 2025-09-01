@@ -1,0 +1,26 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following is a key principle of corporate governance?",
+      "options": [
+        "Transparency and disclosure",
+        "Profit maximization only",
+        "Avoiding regulatory compliance",
+        "Minimizing shareholder rights"
+      ],
+      "answer": "A",
+      "explanation": "Transparency and disclosure is one of the fundamental principles of corporate governance, ensuring that stakeholders have access to relevant information about the company's operations and performance."
+    },
+    {
+      "question": "The concept of 'fiduciary duty' in corporate governance refers to:",
+      "options": [
+        "The duty to maximize profits at any cost",
+        "The legal obligation of directors to act in the best interests of the company",
+        "The responsibility to avoid all business risks",
+        "The requirement to distribute all profits as dividends"
+      ],
+      "answer": "B",
+      "explanation": "Fiduciary duty requires directors and officers to act in good faith and in the best interests of the company and its shareholders, putting the company's interests above their personal interests."
+    }
+  ]
+}
