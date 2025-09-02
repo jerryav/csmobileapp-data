@@ -1,0 +1,43 @@
+# Ignore generated assets, caches, and dumps
+
+# Common data artifacts
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.orig
+*.log
+
+# Large exports / dumps
+*.csv
+*.tsv
+*.xlsx
+*.zip
+*.tar
+*.tar.gz
+*.jsonl
+*.ndjson
+*.parquet
+*.feather
+*.arrow
+*.sqlite3
+*.db
+*.sql
+*.dump
+
+# Node / tooling
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keep canonical small JSON datasets tracked by default
+# Use negation if you need to force-include specific files/folders, e.g.:
+# !questions/
+# !notes/
