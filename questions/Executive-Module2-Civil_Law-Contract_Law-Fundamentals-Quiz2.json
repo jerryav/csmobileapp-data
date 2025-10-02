@@ -49,6 +49,28 @@
         "25 years"
       ],
       "answer": "B"
+    },
+    {
+      "question": "Under which section is the Indian Contract Act defined?",
+      "options": [
+        "Section 1",
+        "Section 2",
+        "Section 10",
+        "Section 25"
+      ],
+      "answer": "D",
+      "explanation": ""
+    },
+    {
+      "question": "What are the essential elements of a valid contract?",
+      "options": [
+        "Offer and Acceptance only",
+        "Offer, Acceptance, Consideration, and Legal capacity",
+        "Only written agreement",
+        "Witness signatures"
+      ],
+      "answer": "A",
+      "explanation": ""
     }
   ]
 }
