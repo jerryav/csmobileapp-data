@@ -1,26 +1,6 @@
 {
   "questions": [
     {
-      "question": "What are the essential elements of a valid contract?",
-      "options": [
-        "Offer and Acceptance only",
-        "Offer, Acceptance, Consideration, and Legal capacity",
-        "Only written agreement",
-        "Witness signatures"
-      ],
-      "answer": "B"
-    },
-    {
-      "question": "Under which section is the Indian Contract Act defined?",
-      "options": [
-        "Section 1",
-        "Section 2",
-        "Section 10",
-        "Section 25"
-      ],
-      "answer": "C"
-    },
-    {
       "question": "What is consideration in contract law?",
       "options": [
         "Kindness shown to parties",
